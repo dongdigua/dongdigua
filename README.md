@@ -4,7 +4,7 @@
 #### 主要使用python，用过一点Julia
 #### 目前我很菜
 #### 你可以在B站上找到我
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongdigua&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongdigua&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongdigua&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **dongdigua/dongdigua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
