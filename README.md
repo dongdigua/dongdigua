@@ -1,6 +1,9 @@
 ### Hi there 👋
-### I am dongdigua
-### You can find me(董地瓜) on bilibili.com
+### 我是董地瓜
+### 是一名高中生
+### 主要使用python
+### 我很菜
+### 你可以在B站上找到我
 
 <!--
 **dongdigua/dongdigua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
