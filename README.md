@@ -1,7 +1,5 @@
 ### Hi there 👋
 #### 我是董地瓜
-#### 是一名高中生
-#### 主要使用python，用过一点Julia
 #### 目前我很菜
 #### 你可以在B站上找到我
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongdigua&show_icons=true&icon_color=66ccff&title_color=66ccff)](https://github.com/anuraghazra/github-readme-stats)
