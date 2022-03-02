@@ -1,5 +1,7 @@
 ### Hi there 👋
-#### 你可以在B站上找到我
+#### I'm from China
+#### You can find me on bilibili: https://space.bilibili.com/489732092
+#### I'm currently studying elixir om exercism: https://exercism.org/profiles/dongdigua
 <!--
 **dongdigua/dongdigua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
