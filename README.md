@@ -8,4 +8,4 @@ I'm currently studying elixir om exercism: https://exercism.org/profiles/dongdig
 - Python(梦开始的地方)
 - Elixir(最顺手的)
 - C(残废)
-- Racket/Scheme(学着van)
+- Racket/Scheme/Erlang(学着van)
