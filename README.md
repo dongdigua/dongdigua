@@ -6,6 +6,7 @@ I'm currently studying elixir om exercism: https://exercism.org/profiles/dongdig
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongdigua&layout=compact&title_color=39c5bb&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 ### Languages
 - Python(梦开始的地方)
-- Elixir(最顺手的)
+- Elixir(超喜欢!)
 - C(残废)
 - Racket/Scheme/Erlang(学着van)
+- Rust(正在学, 好难)
