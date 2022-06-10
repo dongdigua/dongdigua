@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm from China  
 You can find me on bilibili: https://space.bilibili.com/489732092  
-I'm currently studying elixir om exercism: https://exercism.org/profiles/dongdigua  
+I'm currently studying elixir and rust on exercism: https://exercism.org/profiles/dongdigua  
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongdigua&layout=compact&title_color=39c5bb&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 ### Languages
