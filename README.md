@@ -10,3 +10,5 @@ I'm currently studying elixir and rust on exercism: https://exercism.org/profile
 - C(残废)
 - Racket/Scheme/Erlang(学着van)
 - Rust(正在学, 好难)
+
+repository "some-<language>" contains some small projects that I think is no need to create a seperate repo
