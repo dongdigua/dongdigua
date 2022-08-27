@@ -8,7 +8,7 @@ I'm currently studying elixir and rust on exercism: https://exercism.org/profile
 - Python(梦开始的地方)
 - Elixir(超喜欢!)
 - C(残废)
-- Racket/Scheme/Erlang(学着van)
-- Rust(正在学, 好难)
+- Scheme/Perl/Erlang(学着van)
+- Rust(用东北话讲, 实诚)
 
 repository "some-<language>" contains some small projects that I think is no need to create a seperate repo
