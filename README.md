@@ -1,14 +1,12 @@
-## Hi there 👋
-I'm from China  
-You can find me on bilibili: https://space.bilibili.com/489732092  
-I'm currently studying elixir and rust on exercism: https://exercism.org/profiles/dongdigua  
+## 氦 👋
+Me, a pro, but a pro noob | 夫地瓜者，菜逼也。
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongdigua&layout=compact&title_color=39c5bb&langs_count=10&hide=org,markdown,css,html)](https://github.com/anuraghazra/github-readme-stats)
 ### Languages
-- Python(梦开始的地方)
-- Elixir(超喜欢!)
-- C(残废)
-- Scheme/Perl/Erlang(学着van)
-- Rust(用东北话讲, 实诚)
+- Python (梦开始的地方)
+- Elixir (超喜欢!)
+- Rust (踏实)
+- C (残废)
+- Scheme/Perl/Erlang (学着van)
 
-repository "some-<language>" contains some small projects that I think is no need to create a seperate repo
+repo "some-\*" contains some small WIP projects that I think it's no sence to create a seperate repo
