@@ -6,6 +6,6 @@ Me, a pro, but a pro noob | 夫地瓜者，菜逼也。
 - Python (梦开始的地方)
 - Elixir (超喜欢!)
 - Rust (踏实)
-- C (残废)
+- C (技经肯綮之未尝)
 - Scheme/Perl/Erlang (学着van)
 
