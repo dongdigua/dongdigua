@@ -1,4 +1,0 @@
-仓库名为中划线连接, mix仓库除外
-文件(夹)名下划线连接
-
-repo "some-\*" contains some small WIP projects that I think it's no sence to create a seperate repo
